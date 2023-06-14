@@ -27,6 +27,8 @@ Hey there! 👋 Welcome to my GitHub profile. I'm Tewodros, and I'm passionate a
 - 🚀 I'm dedicated to continuous learning and improvement in the world of programming.
 - 📫 Feel free to reach out to me through [gebretewodros73@gmail.com](mailto:gebretewodros73@gmail.com).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gebretewodros73&layout=compact)](https://github.com/gebretewodros73/github-readme-stats)
+
 ## Projects
 
 Here are some of the projects I've been working on:
