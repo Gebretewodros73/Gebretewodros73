@@ -39,7 +39,7 @@ Here are some of the projects I've been working on:
 -->
 Feel free to explore my repositories to discover more exciting projects!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gebretewodros73&show_icons=true&theme=radical)
 
 <!--
 ## Skills
