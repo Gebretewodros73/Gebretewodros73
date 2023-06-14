@@ -39,13 +39,16 @@ Here are some of the projects I've been working on:
 -->
 Feel free to explore my repositories to discover more exciting projects!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordwill1&show_icons=true&theme=radical)
+
+<!--
 ## Skills
 
 - Programming languages: C, Python, JavaScript, Java, Ruby
 - Web development: HTML, CSS, JavaScript
 - Databases: MySQL
 - Version control: Git, GitHub
-
+-->
 ## Contributions and Collaborations
 
 I'm open to collaborations and contributing to exciting projects. If you have any interesting projects or ideas, let's connect and work together!
