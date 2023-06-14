@@ -1,3 +1,4 @@
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+TEWODROS;I+Learn+By+Doing;Embracing + challenges + is + my + motto;I + believe + that + each + problem + is + an + opportunity;for + personal + and + professional + growth + on + the + path + to + success.)](https://git.io/typing-svg)
 <h1 align="center">Hi there 👋, I'm Tewodros Software Engineering student at ALX from Ethiopia</h1>
 <h3 align="center">Embracing challenges is my motto, as I believe that each problem is an opportunity for personal and professional growth on the path to success.</h3>
 <!--
