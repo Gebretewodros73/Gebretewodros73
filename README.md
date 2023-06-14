@@ -25,7 +25,7 @@ Hey there! 👋 Welcome to my GitHub profile. I'm Tewodros, and I'm passionate a
 - 🌱 I believe in learning by doing and embracing challenges.
 - 💡 I see every problem as an opportunity for personal and professional growth.
 - 🚀 I'm dedicated to continuous learning and improvement in the world of programming.
-- 📫 Feel free to reach out to me through [email@example.com](mailto:email@example.com).
+- 📫 Feel free to reach out to me through [gebretewodros73@gmail.com](mailto:gebretewodros73@gmail.com).
 
 ## Projects
 
@@ -34,14 +34,14 @@ Here are some of the projects I've been working on:
 - [Project 1](https://github.com/your-username/project-1): Brief description of the project.
 - [Project 2](https://github.com/your-username/project-2): Brief description of the project.
 - [Project 3](https://github.com/your-username/project-3): Brief description of the project.
-
+-->
 Feel free to explore my repositories to discover more exciting projects!
 
 ## Skills
 
-- Programming languages: Python, JavaScript, Java
-- Web development: HTML, CSS, JavaScript, React
-- Databases: MySQL, MongoDB
+- Programming languages: C, Python, JavaScript, Java, Ruby
+- Web development: HTML, CSS, JavaScript
+- Databases: MySQL
 - Version control: Git, GitHub
 
 ## Contributions and Collaborations
@@ -50,8 +50,9 @@ I'm open to collaborations and contributing to exciting projects. If you have an
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- LinkedIn: [TewodrosRedae](https://www.linkedin.com/in/tewodros-redae-14ba68116)
+- Twitter: [TewodrosGebre](https://twitter.com/TewodrosGebre8)
+<!--
 - Personal Website: [https://www.yourwebsite.com](https://www.yourwebsite.com)
 -->
 Let's connect and collaborate on innovative projects! Looking forward to engaging with the GitHub community. 🌟
