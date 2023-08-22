@@ -36,12 +36,12 @@ Here are some of the projects I've been working on:
 - [Project 1](https://github.com/your-username/project-1): Brief description of the project.
 - [Project 2](https://github.com/your-username/project-2): Brief description of the project.
 - [Project 3](https://github.com/your-username/project-3): Brief description of the project.
--->
+
 Feel free to explore my repositories to discover more exciting projects!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gebretewodros73&show_icons=true&theme=radical)
 
-<!--
+
 ## Skills
 
 - Programming languages: C, Python, JavaScript, Java, Ruby
